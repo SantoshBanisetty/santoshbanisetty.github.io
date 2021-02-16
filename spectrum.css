@@ -1,0 +1,50 @@
+td{
+    /* background-color: black; */
+    height: 20px;
+    width: 100px;
+    border: 6px solid white;
+}
+
+.art{
+    margin: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+  }
+
+h1{
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#one{
+    background-color: #264653;
+}
+
+#two{
+    background-color: #2A9D8F;
+}
+
+#three{
+    background-color: #E9C46A;
+}
+
+#four{
+    background-color: #F4A261;
+}
+
+#five{
+    background-color: #E76F51;
+}
+
+
+
+
